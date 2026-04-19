@@ -23,7 +23,7 @@ I turn real-world customer requirements into practical, scalable, and well-docum
 
 ## Certifications
 <p align="left">
-  <img src="images/badge.png" alt="Certifications" width="900">
+  <img src="images/badge.png" alt="Certifications" width="600">
 </p>
 
 ## Links
