@@ -4,11 +4,9 @@ Senior cloud solutions engineer focused on AWS, Linux, IaC, DevOps, security gov
 
 I turn real-world customer requirements into practical, scalable, and well-documented cloud solutions.
 
-![AWS](https://img.shields.io/badge/AWS-Architecture%20%7C%20Security%20%7C%20Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Architecture%20%7C%20Security-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Operations%20%26%20Automation-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![IaC](https://img.shields.io/badge/IaC-Terraform%20%26%20CloudFormation-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-Delivery%20%26%20Troubleshooting-0A66C2?style=flat-square&logo=githubactions&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Governance%20%26%20Audit-8A2BE2?style=flat-square&logo=fortinet&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-Enterprise%20Cloud%20Integration-00A67E?style=flat-square&logo=openai&logoColor=white)
 
 ## What I Focus On
@@ -24,7 +22,9 @@ I turn real-world customer requirements into practical, scalable, and well-docum
 - [High-risk operation warning solution based on serverless architecture](https://aws.amazon.com/cn/blogs/china/high-risk-operation-warning-solution-based-on-serverless-architecture/)
 
 ## Certifications
-![Certifications](images/badge.png)
+<p align="left">
+  <img src="images/badge.png" alt="Certifications" width="900">
+</p>
 
 ## Links
 - GitHub: [rjwang1982](https://github.com/rjwang1982)
