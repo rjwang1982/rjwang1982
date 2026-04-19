@@ -4,12 +4,12 @@ Senior cloud solutions engineer focused on AWS, Linux, IaC, DevOps, security gov
 
 I turn real-world customer requirements into practical, scalable, and well-documented cloud solutions.
 
-![AWS](https://img.shields.io/badge/AWS-Architecture%20%7C%20Security%20%7C%20Serverless-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Operations%20%26%20Automation-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IaC](https://img.shields.io/badge/IaC-Terraform%20%26%20CloudFormation-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-Delivery%20%26%20Troubleshooting-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Governance%20%26%20Audit-8A2BE2?style=for-the-badge&logo=fortinet&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-Enterprise%20Cloud%20Integration-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Architecture%20%7C%20Security%20%7C%20Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Operations%20%26%20Automation-FCC624?style=flat-square&logo=linux&logoColor=black)
+![IaC](https://img.shields.io/badge/IaC-Terraform%20%26%20CloudFormation-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Delivery%20%26%20Troubleshooting-0A66C2?style=flat-square&logo=githubactions&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Governance%20%26%20Audit-8A2BE2?style=flat-square&logo=fortinet&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-Enterprise%20Cloud%20Integration-00A67E?style=flat-square&logo=openai&logoColor=white)
 
 ## What I Focus On
 - AWS architecture and technical delivery
